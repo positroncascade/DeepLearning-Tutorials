@@ -11,8 +11,7 @@
 
 #### Flow Control:
 * [Cylinder2DFlowControlWithRL](https://github.com/jerabaul29/Cylinder2DFlowControlDRL) - Artificial neural networks trained through deep reinforcement learning discover control strategies for active flow control, Journal of Fluid Mechanics, 2019.
-
-* [Cylinder2DFlowControlDRLParallel] (https://github.com/jerabaul29/Cylinder2DFlowControlDRLParallel) - Accelerating Deep Reinforcement Learning strategies of Flow Control through a multi-environment approach", Rabault and Kuhnle, Physics of Fluids, 2019.
+* [Cylinder2DFlowControlDRLParallel](https://github.com/jerabaul29/Cylinder2DFlowControlDRLParallel) - Accelerating Deep Reinforcement Learning strategies of Flow Control through a multi-environment approach", Rabault and Kuhnle, Physics of Fluids, 2019.
 
 
 
