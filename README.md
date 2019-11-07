@@ -4,11 +4,14 @@
 
 
 ### Some repositories about Deep Learning:
-* [DeepXDE](https://github.com/lululxvi/deepxde)-Deep learning library for solving differential equations.
-* [Keras](https://github.com/keras-team/keras)-Keras: Deep Learning for humans.
-* [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf)-MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville.
-* [Deep Flow Control](https://github.com/sisl/deep_flow_control)-Source code for "Deep Dynamical Modeling and Control of Unsteady Fluid Flows" from NIPS 2018.
+* [DeepXDE](https://github.com/lululxvi/deepxde) - Deep learning library for solving differential equations.
+* [Keras](https://github.com/keras-team/keras) - Keras: Deep Learning for humans.
+* [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville.
+* [Deep Flow Control](https://github.com/sisl/deep_flow_control) - Source code for "Deep Dynamical Modeling and Control of Unsteady Fluid Flows" from NIPS 2018.
 
+#### Flow Control:
+* Artificial neural networks trained through deep reinforcement learning discover control strategies for active flow control, Journal of Fluid Mechanics, 2019.
+[Cylinder2DFlowControlWithRL](https://github.com/jerabaul29/Cylinder2DFlowControlDRL)
 
 
 
