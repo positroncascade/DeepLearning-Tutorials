@@ -18,7 +18,7 @@
 * [CS230_FinalReport](https://github.com/ancorso/CS230_FinalReport) - Final report for CS230 Project "Deep Reinforcement Learning for Unsteady Flow Control".
 
 ### Reduced Order Modeling
-* [LSTM_ROM_Arxiv](https://github.com/arvindmohan/LSTM_ROM_Arxiv) - A Deep Learning based Approach to Reduced Order Modeling for Turbulent Flow Control using LSTM Neural Networks (https://arxiv.org/abs/1804.09269)
+* [LSTM_ROM_Arxiv](https://github.com/arvindmohan/LSTM_ROM_Arxiv) - A Deep Learning based Approach to Reduced Order Modeling for Turbulent Flow Control using LSTM Neural Networks.
 * [ROM_code](https://github.com/hugolui/ROM_code) - Construction of reduced-order models for fluid flows using deep feedforward neural networks. Journal of Fluid Mechanics, 2019.
 * [MD-CNN-AE](http://kflab.jp/en/index.php?18H03758) - Nonlinear mode decomposition with convolutional neural networks for fluid dynamics, Journal of Fluid Mechanics, 2020.
 
