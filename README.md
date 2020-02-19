@@ -37,6 +37,9 @@ just a few trouble shooting tips I have found for training variational autoencod
 * [LSTM_ROM_Arxiv](https://github.com/arvindmohan/LSTM_ROM_Arxiv) - A Deep Learning based Approach to Reduced Order Modeling for Turbulent Flow Control using LSTM Neural Networks.
 * [ROM_code](https://github.com/hugolui/ROM_code) - Construction of reduced-order models for fluid flows using deep feedforward neural networks. Journal of Fluid Mechanics, 2019.
 * [MD-CNN-AE](http://kflab.jp/en/index.php?18H03758) - Nonlinear mode decomposition with convolutional neural networks for fluid dynamics, Journal of Fluid Mechanics, 2020.
+* [Reconstruction-of-Flows](https://github.com/harsha070/Reconstruction-of-Flows) - Reconstruction of Flows using Convolutional neural networks, 2019.
+* [LabelFree-DNN-Surrogate ](https://github.com/Jianxun-Wang/LabelFree-DNN-Surrogate) - Physics-Constrained Bayesian Neural Network for Fluid Flow Reconstruction with Sparse and Noisy Data, 2020.
+* [Super-resolution-reconstruction](http://www.seas.ucla.edu/fluidflow/codes.html) - Super-resolution reconstruction of turbulent flows with machine learning, JFM, 2019
 
 ### Physics Inform
 * [DeepXDE](https://github.com/lululxvi/deepxde) - Deep learning library for solving differential equations.
@@ -61,6 +64,7 @@ turbulence model neural network with data processing, include data cleaning and 
 * [machine-learning-turbulence ](https://github.com/fluid126/machine-learning-turbulence) - Machine Learning in Turbulence Modeling.
 * [tbnn](https://github.com/tbnn/tbnn) - Reynolds averaged turbulence modelling using deep neural networks with embedded invariance, Journal of Fluid Mechanics, 2016.
 * [DNNLESMODEL](https://github.com/itsanikesh/DNNLESMODEL) - This repository contains the python code, weight and bias matrices for the INU model.
+* [Deep-Flow-Prediction](https://github.com/thunil/Deep-Flow-Prediction) - Deep Learning Methods for Reynolds-Averaged Navier-Stokes Simulations of Airfoil Flows
 
 
 ### Aerodynamics
